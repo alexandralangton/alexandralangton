@@ -1,4 +1,8 @@
-### Hi there 👋
+![Header](/Header.png)
+
+### Hi there! I'm Alexandra, a software developer and project manager.
+
+Welcome to my GitHub! Thanks for stopping by&mdash;feel free to have a browse through my projects.
 
 <!--
 **alexandralangton/alexandralangton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
