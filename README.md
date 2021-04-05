@@ -1,6 +1,6 @@
 ![Header](/Header.png)
 
-### Hi there! I'm Alexandra, a software developer and project manager.
+### Hi there! I'm Alexandra, a software engineer and project manager.
 
 Welcome to my GitHub! Thanks for stopping by&mdash;feel free to have a browse through my projects.
 
